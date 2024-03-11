@@ -6,6 +6,6 @@ This repo contains example code to demonstrate the following:
 
 # reports
 
-Take a peek as the ipynb generated pdfs under `demo-results` folder
+Take a peek at the ipynb pdfs under `demo-results` folder
 * minGPT in MLX: https://github.com/adhulipa/mlx-mingpt/blob/main/demo-results/mingptmlx.pdf
 * bitlinear minGPT in MLX: https://github.com/adhulipa/mlx-mingpt/blob/main/demo-results/bitnet-mingptmlx.pdf
