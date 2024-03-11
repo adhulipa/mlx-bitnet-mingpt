@@ -4,7 +4,7 @@ This repo contains example code to demonstrate the following:
 1. A port of [Karpathy's minGPT](https://github.com/karpathy/minGPT) in MLX.
 2. An extension of mlx-mingpt to use `BitLinear` instead of `nn.Linear` to demonstrate training language models using 2-bits as reported in https://arxiv.org/abs/2402.17764
 
-# reports
+## Reports
 
 Take a peek at the ipynb pdfs under `demo-results` folder
 * minGPT in MLX: https://github.com/adhulipa/mlx-mingpt/blob/main/demo-results/mingptmlx.pdf
