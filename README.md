@@ -1,4 +1,4 @@
-# mlx-mingpt
+# mlx-bitnet-mingpt
 
 This repo contains example code to demonstrate the following:
 1. A port of [Karpathy's minGPT](https://github.com/karpathy/minGPT) in MLX.
